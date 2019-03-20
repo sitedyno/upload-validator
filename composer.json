@@ -1,0 +1,13 @@
+{
+    "name": "sitedyno/upload-validator",
+    "description": "Interface and classes to validate files before upload",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Heath Nail",
+            "email": "sitedyno@gmail.com"
+        }
+    ],
+    "require": {}
+}
